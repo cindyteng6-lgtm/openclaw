@@ -62,6 +62,14 @@ python3 create_pdf_pro.py
 - Windows 可使用微软雅黑
 - PDF 无需嵌入字体，跨平台显示一致
 
+## 🔄 自动备份
+
+已配置每日自动备份（每晚 8:00）：
+
+- 自动将当天修改的代码保存到 `archive/YYYY-MM-DD/` 子目录
+- 自动提交并推送到 GitHub
+- 日志文件：`/tmp/openclaw_backup.log`
+
 ## 🔗 相关链接
 
 - OpenClaw 官方文档：https://docs.openclaw.ai
