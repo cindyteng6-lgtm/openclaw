@@ -15,7 +15,7 @@
     "providers": {
       "bailian": {
         "baseUrl": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-        "apiKey": "sk-b5dda98fbf6c467da58ee3b519b69279",
+        "apiKey": "__REDACTED__",
         "api": "openai-completions",
         "models": [
           {
@@ -80,7 +80,7 @@
       },
       "openai": {
         "baseUrl": "https://api.openai.com/v1",
-        "apiKey": "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",
+        "apiKey": "__REDACTED__",
         "api": "openai-completions",
         "models": [
           {
@@ -107,7 +107,7 @@
     "telegram": {
       "enabled": true,
       "dmPolicy": "allowlist",
-      "botToken": "8717110051:AAF2q1qbsoGm26t8SpnSrYMfkick6z1wQT8",
+      "botToken": "__REDACTED__",
       "allowFrom": [
         "7714719532",
         "7027375966",
@@ -123,13 +123,13 @@
     "mode": "local",
     "auth": {
       "mode": "token",
-      "token": "aaeaa797a0fb25aea79063733c208861acb2dd3cf214909b"
+      "token": "__REDACTED__"
     }
   },
   "skills": {
     "entries": {
       "gh-issues": {
-        "apiKey": "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"
+        "apiKey": "__REDACTED__"
       }
     }
   }
