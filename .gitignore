@@ -16,3 +16,9 @@ build/
 .idea/
 *.swp
 *.swo
+
+# OpenClaw Secrets (DO NOT COMMIT)
+openclaw.json
+openclaw.json.*
+*.bak
+update-check.json
